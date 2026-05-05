@@ -1,18 +1,22 @@
-# 🚀 50-Day DSA Placement Challenge
-Tracking my journey through the Striver A2Z DSA Sheet to crack Software Engineering placements in 2026.
+# DSA Placement Prep 
 
-## 📅 Progress Tracker
-- [x] **Day 1:** Arrays (Two Sum, Move Zeroes)
-- [ ] **Day 2:** Arrays (Rotate Array, Second Largest)
-- [ ] **Day 3:** Arrays (Missing Number, Maximum Subarray)
+Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 
-## 🛠️ Tech Stack
-- **Language:** C++
-- **Platform:** Striver's A2Z Sheet / LeetCode
-- **Status:** In Progress (Target: 40+ Problems)
+## Arrays
 
-## 📝 Daily Learnings
-*I use this section to note down "Triggers" for patterns.*
-- **Two Sum:** Use a Hash Map for $O(N)$ instead of $O(N^2)$ nested loops.
+| Problem | Difficulty | Brute | Optimal | Pattern |
+|---------|------------|-------|---------|---------|
+| Two Sum | Easy | O(N^2) | O(N) | HashMap |
+| Move Zeroes | Easy | O(N) | O(N) | Two Pointer |
+| Rotate Array | Easy | O(N) | O(1) | Reversal |
+| Second Largest | Easy | O(N²) | O(N) | Linear Scan |
+| Missing Number | Easy | O(N²) | O(N) | XOR / Sum Formula |
+| Maximum Subarray | Medium | O(N²) | O(N) | Kadane's Algorithm |
+| Next Permutation | Medium | O(N3) | O(N) | Linear Scan |
+| Longest Subarray with sum k | Medium | O(N^2) | O(N) | Prefix sum |
+| Set Zeroes Matrix| Medium | O(NxM) | O(NxM) | Prefix sum |
+| Max Subarray Sum| Medium | O(N^3) | O(N) | Reset to zero |
+| Buy and Sell Stock| Medium | O(N) | O(N) | Linear scan |
+| Longest consecutive sequence| Medium | O(NlogN) | O(N) | Unordered Set |
+| Three Sum| Medium | O(N^3) | O(N) | Linear Scan |
 
-# Progress - Trying to finish Array Basics 
