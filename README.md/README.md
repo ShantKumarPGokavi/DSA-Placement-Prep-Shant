@@ -20,6 +20,7 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 | Longest consecutive sequence| Medium | O(NlogN) | O(N) | Unordered Set |
 | Three Sum| Medium | O(N^3) | O(N) | Linear Scan |
 | Leaders in an array| Medium | O(N) | O(N) | Linear Scan |
+| Move Zeroes to the end| Medium | O(N) | O(N) | Made Space Comp as O(1) |
 | Four Sum| Medium | O(N^4) | O(N^2) | Linear Scan |
 | Majority Element II| Hard | O(N) | O(N) | Made Space Comp as O(1) |
 | Sort 0s,1s,2s| Medium | O(N^3) | O(N) | Dutch National Flag Algorithm |
