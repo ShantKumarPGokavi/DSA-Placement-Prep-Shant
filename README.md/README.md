@@ -25,3 +25,15 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 | Majority Element II| Hard | O(N) | O(N) | Made Space Comp as O(1) |
 | Sort 0s,1s,2s| Medium | O(N^3) | O(N) | Dutch National Flag Algorithm |
 
+
+
+
+## Strings
+
+| Problem | Difficulty | Brute | Optimal | Pattern |
+|---------|------------|-------|---------|---------|
+| Longest Common Prefix | Easy | - | O(N^2) | Matrix - Linear |
+| Max Nesting Depth | Easy | - | O(N) | Linear |
+| Remove Parentheses | Easy | - | O(N) | Linear |
+| Valid Anagram | Easy | - | O(N) | Linear |
+
