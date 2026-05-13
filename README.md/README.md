@@ -31,10 +31,11 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 
 ## Strings
 
-| Problem | Difficulty | Brute | Optimal | Pattern |
+| Problem | Difficulty | Brute | Optimal | One Line Exp |
 |---------|------------|-------|---------|---------|
 | Longest Common Prefix | Easy | - | O(N^2) | Matrix - Linear |
 | Max Nesting Depth | Easy | - | O(N) | Linear |
-| Remove Parentheses | Easy | - | O(N) | Linear |
+| Remove Parentheses | Easy | - | O(N) | First check, then add it to result |
 | Valid Anagram | Easy | - | O(N) | Linear |
+| Reverse Words in Array | Medium | - | O(N) | While loop inside for loop |
 
