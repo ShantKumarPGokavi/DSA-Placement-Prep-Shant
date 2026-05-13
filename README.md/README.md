@@ -24,6 +24,7 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 | Four Sum| Medium | O(N^4) | O(N^2) | Linear Scan |
 | Majority Element II| Hard | O(N) | O(N) | Made Space Comp as O(1) |
 | Sort 0s,1s,2s| Medium | O(N^3) | O(N) | Dutch National Flag Algorithm |
+| Spiral Matrix| Medium | - | O(NxM) | Move top, right, bottom, left |
 
 
 
