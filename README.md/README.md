@@ -39,4 +39,5 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 | Valid Anagram | Easy | - | O(N) | Linear |
 | Reverse Words in Array | Medium | - | O(N) | While loop inside for loop |
 | Roman to Integers | Easy | - | O(N) | Add roman nums in map and then access |
+| Longest Common Prefix | Medium | O(N^3) | O(N^2) | Keep at centre for even and odd pali |
 
