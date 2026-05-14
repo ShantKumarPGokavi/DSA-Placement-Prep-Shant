@@ -38,4 +38,5 @@ Solving Striver A2Z DSA Sheet problems in C++ with brute + optimal approaches.
 | Remove Parentheses | Easy | - | O(N) | First check, then add it to result |
 | Valid Anagram | Easy | - | O(N) | Linear |
 | Reverse Words in Array | Medium | - | O(N) | While loop inside for loop |
+| Roman to Integers | Easy | - | O(N) | Add roman nums in map and then access |
 
